@@ -3,6 +3,11 @@
     <head></head>
     <body>
         <h1>Deaths during the L.A. riots</h1><br/>
-        {{ object_list }}
+        <table>
+            <tr><th>Name</th></tr>
+            {% for row in object_list %}
+                <tr><td> {{ row.full_name }} </td></tr>
+            {% endfor %}
+        </table>
     </body>
 </html> 
