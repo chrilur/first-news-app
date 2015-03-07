@@ -1,5 +1,5 @@
 Min første nyhetsapp
 ====================
 
-#hei hei
-Dette er noe mer tekst for å vise at jeg kan adde, committe og pushe.
+Dokumentasjonen finnnes her:
+http://first-news-app.readthedocs.org/en/latest/
