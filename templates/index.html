@@ -19,7 +19,7 @@
             </tr>
             {% for row in object_list %}
                 <tr>
-                    <td><a href="/{{ row.id }}/">{{ row.full_name }}</a></td>
+                    <td><a href="{{ row.id }}/">{{ row.full_name }}</a></td>
                     <td>{{ row.date }}</td>
                     <td>{{ row.type }}</td>
                     <td>{{ row.address }}</td>
