@@ -1,5 +1,5 @@
 Min første nyhetsapp
 ====================
 
-Dokumentasjonen finnnes her:
+Dokumentasjonen finnes her:
 http://first-news-app.readthedocs.org/en/latest/
